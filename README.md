@@ -9,4 +9,6 @@ But most are quite expensive so we wanted to design our own!
 
 This repo contains all of the files you need to recreate our design and adapt it to work with many types of commercially availiable filters and helmets. 
 
+V3 is the most up to date and functional version. V4 is still under development.
+
 ![PAPRv4](https://github.com/thethoughtemporium/PAPR/blob/main/493507e8-c7e0-45a2-9ea5-cce407912ea4.PNG?raw=true)
