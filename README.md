@@ -11,4 +11,8 @@ This repo contains all of the files you need to recreate our design and adapt it
 
 V3 is the most up to date and functional version. V4 is still under development.
 
+
 ![PAPRv4](https://github.com/thethoughtemporium/PAPR/blob/main/493507e8-c7e0-45a2-9ea5-cce407912ea4.PNG?raw=true)
+
+
+Here's a video where you can see the full build https://www.youtube.com/watch?v=jKjYEmbpFSw
